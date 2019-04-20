@@ -5,6 +5,9 @@
   "repository": "git@github.com:djtorel/Sprint-Challenge-Applied-Javascript.git",
   "author": "Dominic Torruellas <dom@domtorr.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "less-watch-compiler LESS CSS index.less"
+  },
   "devDependencies": {
     "eslint": "^5.16.0"
   }
