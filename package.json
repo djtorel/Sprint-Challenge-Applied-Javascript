@@ -1,0 +1,11 @@
+{
+  "name": "Sprint-Challenge-Applied-Javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:djtorel/Sprint-Challenge-Applied-Javascript.git",
+  "author": "Dominic Torruellas <dom@domtorr.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
